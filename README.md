@@ -2,6 +2,10 @@
 
 Este projeto Android é um aplicativo simples de Pokédex que busca dados sobre Pokémons usando a PokeAPI. Ele utiliza Retrofit para fazer as solicitações HTTP e apresenta os dados em uma interface gráfica.
 
+
+![Imagem do App](https://github.com/IgorKoppen/pokedexAndroid/blob/main/imagensDoProjeto/imagem%20do%20app.png)
+
+
 ## Funcionalidades
 
 - Busca de Pokémon por ID.
